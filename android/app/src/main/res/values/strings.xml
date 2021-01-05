@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomComponents</string>
+    <string name="show_current_time">show current time</string>
 </resources>
